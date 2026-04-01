@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently practicing tools related to **DevOps, and Web Development**<br><br>- 🌱 I’m currently learning **Containerization, Bash Scripting, Git, and AWS**<br><br>- 📫 How to reach me **blbarbachano@gmail.com**<br><br>- ⚡ Fun fact **Coding is fun by itself but sometimes stressful, which is why I learned how to cook to supplement the stress.</p>
+<p align="left">- 🔭 I’m currently practicing tools related to **DevOps**<br><br>- 🌱 I’m currently learning **Containerization, Bash Scripting, Git, and AWS**<br><br>- 📫 How to reach me **blbarbachano@gmail.com**<br><br>- ⚡ Fun fact **Coding is fun by itself but sometimes stressful, which is why I learned how to cook, to supplement the stress.</p>
 
 ###
 
